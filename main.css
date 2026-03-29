@@ -1,7 +1,7 @@
 body {
     background: blue  ;
     font-family: 'Courier New', Courier, monospace;
-    align-items: center;
+  
 
 
 }
@@ -20,7 +20,8 @@ button {
     position: center;
 }
 
-placeholder {
+::placeholder { 
+    
     background: red;
     position: center;
 }
