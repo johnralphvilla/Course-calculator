@@ -20,8 +20,3 @@ button {
     position: center;
 }
 
-::placeholder { 
-    
-    background: red;
-    position: center;
-}
