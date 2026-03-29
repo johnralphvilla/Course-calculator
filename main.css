@@ -5,6 +5,14 @@ body {
 
 
 }
+fieldset {
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    margin: 50px auto;
+    background: lightgray;
+    align-items: center;
+}
 
 
 button {
